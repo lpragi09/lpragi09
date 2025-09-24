@@ -11,7 +11,7 @@ Colaboração e Inteligência Emocional: Combino minhas habilidades técnicas co
 Resolução de Problemas: Gosto de transformar desafios complexos em soluções eficientes. Quanto maior a dificuldade, mais me sinto motivado a encontrar a melhor saída.
 
 * 🌍  I'm based in Atualmente, meu foco principal está no desenvolvimento full-stack e na integração de Desenvolvimento Web.
-* 🖥️  See my portfolio at [https://ragiportfolio.netlify.app](http://https://ragiportfolio.netlify.app)
+* 🖥️  See my portfolio at [ragiportfolio.netlify.app](ragiportfolio.netlify.app)
 * ✉️  You can contact me at [lpmragi@gmail.com](mailto:lpmragi@gmail.com)
 
 <p align="left">
