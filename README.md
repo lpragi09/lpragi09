@@ -93,7 +93,6 @@ Gosto de transformar desafios complexos em soluções eficientes. Quanto maior a
 
 ---
 
-## 📈 Atividade no GitHub
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lpragi09/lpragi09/output/pacman-contribution-graph-dark.svg">
