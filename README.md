@@ -27,7 +27,7 @@ Gosto de transformar desafios complexos em soluções eficientes. Quanto maior a
 
 | Detalhe | Informação |
 | :--- | :--- |
-| **📍 Localização:** | Atualmente, meu foco principal está no desenvolvimento full-stack e na integração de Desenvolvimento Web. |
+| **📍 Localização:** | Lavras - MG |
 | **📧 Email:** | [lpmragi@gmail.com](mailto:lpmragi@gmail.com) |
 | **💼 Portfólio:** | [https://ragiportfolio.netlify.app](https://ragiportfolio.netlify.app) |
 
