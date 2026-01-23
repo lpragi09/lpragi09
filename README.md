@@ -4,7 +4,7 @@
   
 </p>
 
-## 🚀 Desenvolvedor Full Stack Trainee & Entusiasta Web
+## 🚀 Desenvolvedor Full Stack & Entusiasta Web
 
 Com foco em **Desenvolvimento Web Full Stack**, busco transformar desafios complexos em soluções eficientes e de valor. Minha jornada é impulsionada pela paixão por aprender e pela crença na **sinergia do time**.
 
