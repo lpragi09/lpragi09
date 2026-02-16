@@ -29,7 +29,7 @@ Gosto de transformar desafios complexos em soluções eficientes. Quanto maior a
 | :--- | :--- |
 | **📍 Localização:** | Lavras - MG |
 | **📧 Email:** | [lpmragi@gmail.com](mailto:lpmragi@gmail.com) |
-| **💼 Portfólio:** | [https://ragiportfolio.netlify.app](https://ragiportfolio.netlify.app) |
+| **💼 Portfólio:** | [https://portfolio-ragi-xc9v.vercel.app/](https://portfolio-ragi-xc9v.vercel.app/) |
 
 <p align="left"> 
   <a href="https://github.com/lpragi09" target="_blank" rel="noreferrer">
