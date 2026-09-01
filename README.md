@@ -1,25 +1,30 @@
 # Olá! Eu sou Luiz Paulo Moreno Ragi 👋
 
 <p align="center">
-  
 </p>
 
-## 🚀 Desenvolvedor Full Stack & Entusiasta Web
+## 🚀 Desenvolvedor Front-end & Especialista em UI
 
-Com foco em **Desenvolvimento Web Full Stack**, busco transformar desafios complexos em soluções eficientes e de valor. Minha jornada é impulsionada pela paixão por aprender e pela crença na **sinergia do time**.
+Sou um desenvolvedor focado em produtividade, design limpo e interfaces de alta conversão. Atualmente, atuo na área de **Tech, Automação e Inteligência Artificial na V4 Company**, onde integro fluxos robustos de dados a front-ends elegantes e funcionais. Também sou estudante de Análise e Desenvolvimento de Sistemas (Unilavras).
+
+Minha arquitetura de desenvolvimento prioriza velocidade, segurança e "scannability":
+* **Core:** Next.js 14+ (App Router) e TypeScript.
+* **Estilização & UI:** Tailwind CSS, Lucide-react e design premium.
+* **Backend & Auth:** Supabase (com foco em segurança via RLS).
+* **Monitoramento & Deploy:** Vercel Analytics e Speed Insights.
 
 ---
 
 ## 💡 Minhas Forças
 
-### **🧠 Aprendizado Rápido & Adaptabilidade**
-Tenho facilidade em dominar novas tecnologias e me adaptar a diferentes ambientes e contextos. Busco entender profundamente as necessidades para entregar **soluções de valor**.
+### **🎯 Integração Visual & Dados**
+Transformo regras de negócios complexas, APIs e automações de CRM (n8n, Make) em dashboards e interfaces visuais sofisticadas que não abrem mão da performance (ex: V4Dash).
 
-### **🤝 Colaboração e Inteligência Emocional**
-Combino minhas habilidades técnicas com **empatia** e forte capacidade de **colaboração**. Acredito que um ambiente de trabalho produtivo e profissional é fundamental para o sucesso do projeto.
+### **✨ Design Limpo & Escaneabilidade**
+Combino hierarquia tipográfica precisa (Serif/Sans) com layouts estruturados no Tailwind para criar experiências de usuário que guiam a leitura e focam em alta conversão.
 
-### **🛠️ Resolução de Problemas**
-Gosto de transformar desafios complexos em soluções eficientes. Quanto maior a dificuldade, mais me sinto **motivado** a encontrar a melhor saída.
+### **🛠️ Resolução Rápida de Problemas**
+Facilidade em dominar novas tecnologias, construir protótipos de forma ágil para clientes e adaptar sistemas para entregar valor real e imediato no ambiente de produção.
 
 ---
 
@@ -52,47 +57,35 @@ Gosto de transformar desafios complexos em soluções eficientes. Quanto maior a
 
 ## 💻 Minhas Tecnologias & Ferramentas
 
-### **Linguagens & Frameworks**
+### **Ecossistema Principal (Front-end & UI)**
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
-</p>
-
-### **Front-end**
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass/SCSS" title="Sass/SCSS" width="36" height="36" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
 </p>
 
-### **Back-end & Banco de Dados**
+### **Backend, Auth & Database**
 <p align="left">
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
 </p>
 
-### **DevOps & Cloud**
+### **Automação & Cloud (Vercel, n8n, Make)**
 <p align="left">
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" width="36" height="36" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-  <a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a>
 </p>
 
-### **Ferramentas**
+### **Design & Ferramentas**
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
 </p>
 
 ---
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lpragi09/lpragi09/output/pacman-contribution-graph-dark.svg">
